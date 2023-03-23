@@ -1,4 +1,4 @@
-
+New Subah
 case1@case MINGW64 ~/Documents/git_ramp
 $ git init
 Initialized empty Git repository in C:/Users/case1/Documents/git_ramp/.git/
